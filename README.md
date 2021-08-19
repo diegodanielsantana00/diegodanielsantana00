@@ -20,3 +20,9 @@
 <div>
   <a href="https://instagram.com/diegodanie_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+ 
+ Projects Active
+
+Vexa Calendário - https://bit.ly/vexacalendario
+Supermercado IBS Bot - https://bit.ly/SupermercadoIBSBot
+Supermercado Gmais Bot - https://bit.ly/supermercadoGmaisBot
