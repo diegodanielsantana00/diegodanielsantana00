@@ -22,10 +22,3 @@
   <a href="https://instagram.com/diegodanie_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/diego-daniel-4783411b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
- 
- Projects Active
-
-Vexa Calendário - https://bit.ly/vexacalendario
-Supermercado IBS Bot - https://bit.ly/SupermercadoIBSBot
-Supermercado Gmais Bot - https://bit.ly/supermercadoGmaisBot
